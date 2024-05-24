@@ -1,1 +1,2 @@
 animal = dog
+plant = flower
